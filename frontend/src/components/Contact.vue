@@ -19,7 +19,7 @@ Kirim Email
 300">LinkedIn</a>
 
 </div>
-<p class="text-gray-500">&copy; {{ new Date().getFullYear() }} Nama Mahasiswa. Dibuat dengan
+<p class="text-gray-500">&copy; {{ new Date().getFullYear() }} RM Alfarizky CK. Dibuat dengan Penuh Cinta
 </p>
 </div>
 </footer>
